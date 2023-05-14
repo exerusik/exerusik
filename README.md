@@ -1,12 +1,16 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telgram&logoColor=white" alt="Telegram Badge"/>
-  <img src = https://img.shields.io/badge/mail-red?style-for-bage&logo=mail&logocolor=white" alt="Mail Bage">
+  <a href="https://t.me/Exerusik">
+  <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telgram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href = "https://exe.rusik@gmail.com">
+    <img src = "https://img.shields.io/badge/@MAIL:exe.rusik@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Bage"/>
+  </a>                                                                                                         
 </div>
-
+                                                                                                              
 <h1 align = "center"> Hi, i am Ruslan Alekseev👋
   </h1>
 
