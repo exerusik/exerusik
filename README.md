@@ -6,7 +6,7 @@
   <a href="https://t.me/Exerusik">
   <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telgram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href = "https://exe.rusik@gmail.com">
+  <a href = "https://mail.google.com/mail/u/0/?zx=ytf2gtnic08g#inbox?compose=new">
     <img src = "https://img.shields.io/badge/@MAIL:exe.rusik@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Bage"/>
   </a>                                                                                                         
 </div>
