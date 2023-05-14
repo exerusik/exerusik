@@ -1,11 +1,14 @@
-### Hi, i am Ruslan Alekseev👋
-_______________________________
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telgram&logoColor=white" alt="Telegram Badge"/>
+  <img src = https://img.shields.io/badge/mail-red?style-for-bage&logo=mail&logocolor=white" alt="Mail Bage">
 </div>
+
+<h1 align = "center"> Hi, i am Ruslan Alekseev👋
+  </h1>
 
 <!--
 **exerusik/exerusik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
